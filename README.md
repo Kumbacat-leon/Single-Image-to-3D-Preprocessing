@@ -18,9 +18,6 @@ The pipeline applies image processing operations before passing the input image 
 
 
 
-The project was developed as part of my CCS5990 Master's research project at Universiti Putra Malaysia.
-
-
 
 ## Pipeline
 
